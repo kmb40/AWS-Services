@@ -3,7 +3,7 @@ A list of AWS Services with:
 
 - Descriptions 
 - Cost 
-<div style="width:100">
+<div style="width:100%">
 | Service | Description | Cost |
 | --------------- | --------------- | --------------- |
 | Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
