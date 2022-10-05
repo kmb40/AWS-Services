@@ -1,2 +1,5 @@
 # AWS Services
-AWS Services Cost Matrix displaying AWS services and associated cost.
+A list of AWS Services with:
+
+- Descriptions 
+- Cost 
