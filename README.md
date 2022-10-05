@@ -5,7 +5,7 @@ A list of AWS Services with:
 - Cost 
 
             
-| Service | Description | Cost | Other |
+| Service | Description | Cost | Notes |
 | --------------- | --------------- | --------------- |--------------- |
 | Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
 | Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
