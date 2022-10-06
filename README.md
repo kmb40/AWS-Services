@@ -1,5 +1,5 @@
 # AWS Services
-A list of AWS Services:
+A list of AWS Services (10/2022 - According to Amazon docs, there are more than 227 as of services and the list growing rapidly):
 
 - Name 
 - Descriptions 
