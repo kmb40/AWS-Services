@@ -12,3 +12,4 @@ A list of AWS Services:
 | <a href="https://aws.amazon.com/alexaforbusiness/pricing/?did=ap_card&trk=ap_card">Alexa for Business</a> |Empower your organization with Alexa | 90 Day Trial |Business Applications
 | <a href="https://aws.amazon.com/api-gateway/pricing/?did=ap_card&trk=ap_card">Amazon API Gateway</a> | Build, deploy, and manage APIs | 12 Month Trial| Front-End Web & Mobile |
 | <a href="https://aws.amazon.com/appflow/">Amazon AppFlow</a> | No-code integration for SaaS apps & AWS services | Paid| Application Integration|            
+| <a href="https://aws.amazon.com/appstream2/">Amazon AppStream 2.0</a> | Stream desktop applications securely to a browser | Paid|End User Computing|
