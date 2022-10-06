@@ -1,13 +1,15 @@
 # AWS Services
-A list of AWS Services with:
+A list of AWS Services:
 
+- Name 
 - Descriptions 
 - Cost 
+- Category 
 
             
-| Service | Description | Cost | Category | Notes
-| --------------- | --------------- | --------------- |--------------- |--------------- 
-| <a href="https://aws.amazon.com/directoryservice/" target="_blank">AWS Directory Service</a>  | Host and manage active directory | 30 Day Trail | Security, Identity, & Compliance 
-| Row 2 Column 1 | Row 2 Column 2 | Row 3 Column 3 | Row 3 Column 3 
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 | Row 3 Column 3 
+| Service         | Description     | Cost            | Category       | 
+| --------------- | --------------- | --------------- |--------------- |
+| <a href="https://aws.amazon.com/directoryservice/" target="_blank">AWS Directory Service</a>| Host and manage active directory | 30 Day Trail | Security, Identity, & Compliance |
+| <a href="Alexa for Business">Alexa for Business</a> |Empower your organization with Alexa | 90 Day Trail |Business Applications
+| <a href="https://aws.amazon.com/api-gateway/pricing/?did=ap_card&trk=ap_card">Amazon API Gateway</a> | Build, deploy, and manage APIs | 12 Month Trail| Front-End Web & Mobile |
             
